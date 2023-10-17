@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppMobiliaria</string>
+
+    <string-array name="options_array">
+        <item>Opção 1</item>
+        <item>Opção 2</item>
+        <item>Opção 3</item>
+    </string-array>
+</resources>
